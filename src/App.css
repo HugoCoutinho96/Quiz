@@ -22,6 +22,16 @@ body, html {
   text-align: center;
 }
 
+.quiz-container .quiz-subtitles{
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  text-align: left;
+  font-size: 0.7rem;
+  color: rgba(0, 0, 0, 0.6);
+}
+
 /* Estilo das opções */
 .options {
   display: flex;
